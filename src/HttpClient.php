@@ -8,7 +8,7 @@ use Psr\Http\Message\ResponseInterface;
 
 class HttpClient implements Client
 {
-    const REST_API_URL = 'https://api.tempo.io/core';
+    const REST_API_URL = 'https://jira.youwe.nl';
     const REST_API_VERSION = '3';
 
     /**
